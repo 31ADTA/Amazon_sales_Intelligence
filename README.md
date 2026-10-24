@@ -3,33 +3,39 @@ Amazon retail sales analysis using Excel and Advanced Excel to identify sales tr
 
 
 ## 📊 Project Overview
-This project analyzes Amazon retail sales data using Microsoft Excel and Advanced Excel to identify sales trends and key business insights.
+This project analyzes Amazon retail sales data using Excel and Advanced Excel to identify sales trends, product performance, category performance, and regional insights.
 
 ## 🎯 Objectives
-- Analyze overall revenue
+- Analyze total revenue and sales performance
 - Identify top-selling products
-- Find the highest-performing categories
-- Compare regional performance
+- Analyze category-wise performance
+- Compare regional sales performance
 - Identify least-performing regions
-- Create meaningful KPIs and visualizations
+- Create KPIs and an Excel dashboard
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Excel Features Used
 - Microsoft Excel
 - Advanced Excel
+- XLOOKUP / VLOOKUP
+- PROPER Function
+- IF Function
 - Pivot Tables
 - Pivot Charts
-- Excel Functions
-- Dashboard
+- Excel Charts
+- Dashboard & KPI Cards
+- Data Cleaning and Formatting
 
-## 🔄 Process
-1. Cleaned and standardized the raw data.
-2. Used Excel functions such as PROPER to correct inconsistent text formatting.
-3. Created Pivot Tables to summarize the data.
-4. Created charts to visualize sales performance.
-5. Developed an interactive dashboard with key KPIs.
+## 🔄 Project Process
+1. Cleaned and standardized the raw retail data.
+2. Used Excel functions to correct inconsistent data formats.
+3. Used lookup functions to retrieve and combine relevant information.
+4. Created Pivot Tables to summarize sales data.
+5. Analyzed revenue, products, categories, and regions.
+6. Created charts and KPI cards.
+7. Developed an Excel dashboard to present the key insights.
 
 ## 💡 Key Insights
-The analysis helped identify high-performing products, categories, and regions, as well as areas with lower sales performance.
+The analysis identified top-performing products and categories, high-performing regions, and low-performing regions, helping understand overall retail sales performance.
 
 ## 📁 Project File
-The Excel workbook contains the cleaned data, analysis, Pivot Tables, charts, and dashboard.
+The Excel workbook contains the raw data, cleaned data, analysis, Pivot Tables, visualizations, and dashboard.
